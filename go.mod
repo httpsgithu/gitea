@@ -61,7 +61,7 @@ require (
 	github.com/huandu/xstrings v1.3.2
 	github.com/issue9/identicon v1.2.0
 	github.com/jaytaylor/html2text v0.0.0-20200412013138-3577fbdbcff7
-	github.com/json-iterator/go v1.1.10
+	github.com/json-iterator/go v1.1.11
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/kevinburke/ssh_config v1.1.0 // indirect
 	github.com/keybase/go-crypto v0.0.0-20200123153347-de78d2cb44f4
@@ -93,7 +93,7 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.3 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/pquerna/otp v1.3.0
-	github.com/prometheus/client_golang v1.10.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/quasoft/websspi v1.0.0
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
@@ -123,7 +123,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b
 	golang.org/x/net v0.0.0-20210421230115-4e50805a0758
 	golang.org/x/oauth2 v0.0.0-20210413134643-5e61552d6c78
-	golang.org/x/sys v0.0.0-20210421221651-33663a62ff08
+	golang.org/x/sys v0.0.0-20210603081109-ebe580a85c40
 	golang.org/x/text v0.3.6
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba // indirect
 	golang.org/x/tools v0.1.0
