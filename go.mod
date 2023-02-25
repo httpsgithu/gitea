@@ -123,7 +123,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b
 	golang.org/x/net v0.0.0-20210421230115-4e50805a0758
 	golang.org/x/oauth2 v0.0.0-20210413134643-5e61552d6c78
-	golang.org/x/sys v0.0.0-20210421221651-33663a62ff08
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.6
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba // indirect
 	golang.org/x/tools v0.1.0
