@@ -104,7 +104,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/tstranex/u2f v1.0.0
-	github.com/ulikunitz/xz v0.5.10 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	github.com/unknwon/com v1.0.1
 	github.com/unknwon/i18n v0.0.0-20210321134014-0ebbf2df1c44
 	github.com/unknwon/paginater v0.0.0-20200328080006-042474bd0eae
